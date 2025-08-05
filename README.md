@@ -7,7 +7,7 @@ Olá, me chamo Tomaz, sou estudante do 7° período de Sistemas de Informação 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias 🧙‍♂️
 
 <img 
     align="left" 
